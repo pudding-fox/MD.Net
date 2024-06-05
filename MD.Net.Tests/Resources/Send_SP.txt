@@ -1,0 +1,126 @@
+﻿audio file size : 53785560 bytes
+supported audio file detected
+data chunk position at 36
+audio data size read from file :           53745552 bytes
+audio data size calculated from file size: 53785516 bytes
+netmd_acquire_dev: No error
+netmd_secure_leave_session : No error
+netmd_secure_set_track_protection : No error
+netmd_secure_enter_session : No error
+netmd_secure_send_key_data : No error
+netmd_secure_session_key_exchange : No error
+netmd_secure_setup_download : No error
+generating packet 1 : 1048552 bytes
+generating packet 2 : 1048576 bytes
+generating packet 3 : 1048576 bytes
+generating packet 4 : 1048576 bytes
+generating packet 5 : 1048576 bytes
+generating packet 6 : 1048576 bytes
+generating packet 7 : 1048576 bytes
+generating packet 8 : 1048576 bytes
+generating packet 9 : 1048576 bytes
+generating packet 10 : 1048576 bytes
+generating packet 11 : 1048576 bytes
+generating packet 12 : 1048576 bytes
+generating packet 13 : 1048576 bytes
+generating packet 14 : 1048576 bytes
+generating packet 15 : 1048576 bytes
+generating packet 16 : 1048576 bytes
+generating packet 17 : 1048576 bytes
+generating packet 18 : 1048576 bytes
+generating packet 19 : 1048576 bytes
+generating packet 20 : 1048576 bytes
+generating packet 21 : 1048576 bytes
+generating packet 22 : 1048576 bytes
+generating packet 23 : 1048576 bytes
+generating packet 24 : 1048576 bytes
+generating packet 25 : 1048576 bytes
+generating packet 26 : 1048576 bytes
+generating packet 27 : 1048576 bytes
+generating packet 28 : 1048576 bytes
+generating packet 29 : 1048576 bytes
+generating packet 30 : 1048576 bytes
+generating packet 31 : 1048576 bytes
+generating packet 32 : 1048576 bytes
+generating packet 33 : 1048576 bytes
+generating packet 34 : 1048576 bytes
+generating packet 35 : 1048576 bytes
+generating packet 36 : 1048576 bytes
+generating packet 37 : 1048576 bytes
+generating packet 38 : 1048576 bytes
+generating packet 39 : 1048576 bytes
+generating packet 40 : 1048576 bytes
+generating packet 41 : 1048576 bytes
+generating packet 42 : 1048576 bytes
+generating packet 43 : 1048576 bytes
+generating packet 44 : 1048576 bytes
+generating packet 45 : 1048576 bytes
+generating packet 46 : 1048576 bytes
+generating packet 47 : 1048576 bytes
+generating packet 48 : 1048576 bytes
+generating packet 49 : 1048576 bytes
+generating packet 50 : 1048576 bytes
+generating packet 51 : 1048576 bytes
+last packet: packet_data_length=268200 + frame_padding=112 = chunksize=268312
+generating packet 52 : 268312 bytes
+netmd_prepare_packets : No error
+total transfer size : 53745688 bytes, 26243 frames of 2048 bytes
+1048576 of 53745688 bytes (1%) transferred (1048576 of 1048576 bytes in packet)
+2097152 of 53745688 bytes (3%) transferred (1048576 of 1048576 bytes in packet)
+3145728 of 53745688 bytes (5%) transferred (1048576 of 1048576 bytes in packet)
+4194304 of 53745688 bytes (7%) transferred (1048576 of 1048576 bytes in packet)
+5242880 of 53745688 bytes (9%) transferred (1048576 of 1048576 bytes in packet)
+6291456 of 53745688 bytes (11%) transferred (1048576 of 1048576 bytes in packet)
+7340032 of 53745688 bytes (13%) transferred (1048576 of 1048576 bytes in packet)
+8388608 of 53745688 bytes (15%) transferred (1048576 of 1048576 bytes in packet)
+9437184 of 53745688 bytes (17%) transferred (1048576 of 1048576 bytes in packet)
+10485760 of 53745688 bytes (19%) transferred (1048576 of 1048576 bytes in packet)
+11534336 of 53745688 bytes (21%) transferred (1048576 of 1048576 bytes in packet)
+12582912 of 53745688 bytes (23%) transferred (1048576 of 1048576 bytes in packet)
+13631488 of 53745688 bytes (25%) transferred (1048576 of 1048576 bytes in packet)
+14680064 of 53745688 bytes (27%) transferred (1048576 of 1048576 bytes in packet)
+15728640 of 53745688 bytes (29%) transferred (1048576 of 1048576 bytes in packet)
+16777216 of 53745688 bytes (31%) transferred (1048576 of 1048576 bytes in packet)
+17825792 of 53745688 bytes (33%) transferred (1048576 of 1048576 bytes in packet)
+18874368 of 53745688 bytes (35%) transferred (1048576 of 1048576 bytes in packet)
+19922944 of 53745688 bytes (37%) transferred (1048576 of 1048576 bytes in packet)
+20971520 of 53745688 bytes (39%) transferred (1048576 of 1048576 bytes in packet)
+22020096 of 53745688 bytes (40%) transferred (1048576 of 1048576 bytes in packet)
+23068672 of 53745688 bytes (42%) transferred (1048576 of 1048576 bytes in packet)
+24117248 of 53745688 bytes (44%) transferred (1048576 of 1048576 bytes in packet)
+25165824 of 53745688 bytes (46%) transferred (1048576 of 1048576 bytes in packet)
+26214400 of 53745688 bytes (48%) transferred (1048576 of 1048576 bytes in packet)
+27262976 of 53745688 bytes (50%) transferred (1048576 of 1048576 bytes in packet)
+28311552 of 53745688 bytes (52%) transferred (1048576 of 1048576 bytes in packet)
+29360128 of 53745688 bytes (54%) transferred (1048576 of 1048576 bytes in packet)
+30408704 of 53745688 bytes (56%) transferred (1048576 of 1048576 bytes in packet)
+31457280 of 53745688 bytes (58%) transferred (1048576 of 1048576 bytes in packet)
+32505856 of 53745688 bytes (60%) transferred (1048576 of 1048576 bytes in packet)
+33554432 of 53745688 bytes (62%) transferred (1048576 of 1048576 bytes in packet)
+34603008 of 53745688 bytes (64%) transferred (1048576 of 1048576 bytes in packet)
+35651584 of 53745688 bytes (66%) transferred (1048576 of 1048576 bytes in packet)
+36700160 of 53745688 bytes (68%) transferred (1048576 of 1048576 bytes in packet)
+37748736 of 53745688 bytes (70%) transferred (1048576 of 1048576 bytes in packet)
+38797312 of 53745688 bytes (72%) transferred (1048576 of 1048576 bytes in packet)
+39845888 of 53745688 bytes (74%) transferred (1048576 of 1048576 bytes in packet)
+40894464 of 53745688 bytes (76%) transferred (1048576 of 1048576 bytes in packet)
+41943040 of 53745688 bytes (78%) transferred (1048576 of 1048576 bytes in packet)
+42991616 of 53745688 bytes (0%) transferred (1048576 of 1048576 bytes in packet)
+44040192 of 53745688 bytes (2%) transferred (1048576 of 1048576 bytes in packet)
+45088768 of 53745688 bytes (3%) transferred (1048576 of 1048576 bytes in packet)
+46137344 of 53745688 bytes (5%) transferred (1048576 of 1048576 bytes in packet)
+47185920 of 53745688 bytes (7%) transferred (1048576 of 1048576 bytes in packet)
+48234496 of 53745688 bytes (9%) transferred (1048576 of 1048576 bytes in packet)
+49283072 of 53745688 bytes (11%) transferred (1048576 of 1048576 bytes in packet)
+50331648 of 53745688 bytes (13%) transferred (1048576 of 1048576 bytes in packet)
+51380224 of 53745688 bytes (15%) transferred (1048576 of 1048576 bytes in packet)
+52428800 of 53745688 bytes (17%) transferred (1048576 of 1048576 bytes in packet)
+53477376 of 53745688 bytes (19%) transferred (1048576 of 1048576 bytes in packet)
+53745688 of 53745688 bytes (20%) transferred (268312 of 268312 bytes in packet)
+netmd_transfer_song_packets : transfer took 153 seconds (343 kB/sec)
+netmd_secure_send_track : No error
+New Track: 0
+netmd_secure_commit_track : No error
+netmd_secure_session_key_forget : No error
+netmd_secure_leave_session : No error
+netmd_release_dev : Unknown Error

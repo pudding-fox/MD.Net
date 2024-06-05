@@ -1,0 +1,93 @@
+﻿{
+  "device":"Sony MDS-JE780\/JB980",
+  "title":"Evanescence",
+  "recordedTime":"00:47:20.09",
+  "totalTime":"01:14:59.42",
+  "availableTime":"00:27:26.82",
+  "tracks":[
+    {
+      "no":0,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"03:41:66",
+      "name":"What You Want - Evanescence"
+    },
+    {
+      "no":1,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"03:33:84",
+      "name":"Made of Stone - Evanescence"
+    },
+    {
+      "no":2,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"03:42:68",
+      "name":"The Change - Evanescence"
+    },
+    {
+      "no":3,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"04:29:52",
+      "name":"My Heart Is Broken - Evanescence"
+    },
+    {
+      "no":4,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"04:05:34",
+      "name":"The Other Side - Evanescence"
+    },
+    {
+      "no":5,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"03:55:59",
+      "name":"Erase This - Evanescence"
+    },
+    {
+      "no":6,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"04:42:59",
+      "name":"Lost in Paradise - Evanescence"
+    },
+    {
+      "no":7,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"03:30:41",
+      "name":"Sick - Evanescence"
+    },
+    {
+      "no":8,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"03:49:48",
+      "name":"End of the Dream - Evanescence"
+    },
+    {
+      "no":9,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"03:38:56",
+      "name":"Oceans - Evanescence"
+    },
+    {
+      "no":10,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"04:27:64",
+      "name":"Never Go Back - Evanescence"
+    },
+    {
+      "no":11,
+      "protect":"UnPROT",
+      "bitrate":"SP",
+      "time":"03:41:72",
+      "name":"Swimming Home - Evanescence"
+    }
+  ]
+}
